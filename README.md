@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattcherrydev
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on something fun!
+- 🌱 I’m currently learning Android Development
 - 📫 Reach me at @ mattcherrydev@gmail.com
 
 <!---
