@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattcherrydev
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Flutter Development
 - 📫 Reach me at @ mattcherrydev@gmail.com
 
 <!---
